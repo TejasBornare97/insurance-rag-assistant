@@ -52,7 +52,7 @@ NORTHGATE_HOME_IPID = {
         ]},
         {"number": "3", "heading": "What is not insured?", "blocks": [
             ("bullets", [
-                "The excess shown in section 6 of this document.",
+                "The excess shown in section 4 of this document.",
                 "Wear and tear or gradual deterioration.",
                 "Damage caused by insects, vermin or pets.",
                 "Loss or damage while your home is unoccupied for more than 60 consecutive days, for theft, escape of water and malicious damage.",
