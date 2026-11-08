@@ -6,4 +6,4 @@ chromadb
 ollama
 streamlit
 python-dotenv
-pytest
+pytestrank-bm25
