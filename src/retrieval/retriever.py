@@ -55,7 +55,8 @@ def detect_filters(question):
     text = " " + " ".join(re.findall(r"[a-z]+", question.lower())) + " "
 
     def mentions(keywords):
-        return any(f" {keyword} " in text for keyword in keywords)
+        # Also match simple plurals: "cars", "drivers", "trips"
+        return any(f" {keyword} " in text or f" {keyword}s " in text for keyword in keywords)
 
     filters = {}
 
