@@ -1,0 +1,234 @@
+[
+  {
+    "id": "Q01",
+    "type": "lookup",
+    "question": "What is the standard excess on a Northgate home insurance claim?",
+    "answer": "£250",
+    "doc_id": "northgate_home_wording",
+    "section": "7"
+  },
+  {
+    "id": "Q02",
+    "type": "lookup",
+    "question": "What excess applies to an escape of water claim under the Northgate home policy?",
+    "answer": "£500",
+    "doc_id": "northgate_home_wording",
+    "section": "7"
+  },
+  {
+    "id": "Q03",
+    "type": "lookup",
+    "question": "How much will Northgate pay for trace and access on a home claim?",
+    "answer": "Up to £5,000",
+    "doc_id": "northgate_home_wording",
+    "section": "4"
+  },
+  {
+    "id": "Q04",
+    "type": "lookup",
+    "question": "What is the limit for cash under Northgate home contents cover?",
+    "answer": "£500",
+    "doc_id": "northgate_home_wording",
+    "section": "5"
+  },
+  {
+    "id": "Q05",
+    "type": "lookup",
+    "question": "What is the compulsory excess on a Northgate car insurance claim?",
+    "answer": "£300",
+    "doc_id": "northgate_motor_wording",
+    "section": "9"
+  },
+  {
+    "id": "Q06",
+    "type": "lookup",
+    "question": "How long is each trip covered for under the Northgate annual travel policy?",
+    "answer": "Up to 31 consecutive days",
+    "doc_id": "northgate_travel_wording",
+    "section": "1"
+  },
+  {
+    "id": "Q07",
+    "type": "lookup",
+    "question": "What is the emergency medical expenses limit on Northgate travel insurance?",
+    "answer": "£10,000,000 per person",
+    "doc_id": "northgate_travel_wording",
+    "section": "2"
+  },
+  {
+    "id": "Q08",
+    "type": "insurer_trap",
+    "question": "What is the standard excess on a Harbourline home insurance claim?",
+    "answer": "£350",
+    "doc_id": "harbourline_home_wording",
+    "section": "5"
+  },
+  {
+    "id": "Q09",
+    "type": "insurer_trap",
+    "question": "What is the escape of water excess under the Harbourline household policy?",
+    "answer": "£400",
+    "doc_id": "harbourline_home_wording",
+    "section": "5"
+  },
+  {
+    "id": "Q10",
+    "type": "insurer_trap",
+    "question": "How much does Harbourline pay to find a leak?",
+    "answer": "Up to £3,000",
+    "doc_id": "harbourline_home_wording",
+    "section": "3"
+  },
+  {
+    "id": "Q11",
+    "type": "insurer_trap",
+    "question": "What is the young driver excess on a Harbourline car policy?",
+    "answer": "£400 extra excess for drivers under 25",
+    "doc_id": "harbourline_motor_wording",
+    "section": "7"
+  },
+  {
+    "id": "Q12",
+    "type": "insurer_trap",
+    "question": "How many days of European driving cover does Harbourline give per trip?",
+    "answer": "Up to 30 days",
+    "doc_id": "harbourline_motor_wording",
+    "section": "6"
+  },
+  {
+    "id": "Q13",
+    "type": "condition",
+    "question": "After how many days unoccupied does Northgate stop covering theft and escape of water?",
+    "answer": "From the 61st day (more than 60 consecutive days unoccupied)",
+    "doc_id": "northgate_home_wording",
+    "section": "3"
+  },
+  {
+    "id": "Q14",
+    "type": "condition",
+    "question": "Is my car covered for theft under Northgate if I left the keys in it?",
+    "answer": "No, theft is not covered if the keys were left in or on the car",
+    "doc_id": "northgate_motor_wording",
+    "section": "3"
+  },
+  {
+    "id": "Q15",
+    "type": "condition",
+    "question": "Can a 22-year-old named driver use the driving other cars extension on a Northgate policy?",
+    "answer": "No, it only applies to policyholders aged 25 or over and not to young drivers",
+    "doc_id": "northgate_motor_wording",
+    "section": "2"
+  },
+  {
+    "id": "Q16",
+    "type": "condition",
+    "question": "Does a Harbourline car policy let me drive other cars?",
+    "answer": "No, only the car shown on the schedule",
+    "doc_id": "harbourline_motor_wording",
+    "section": "2"
+  },
+  {
+    "id": "Q17",
+    "type": "condition",
+    "question": "If my Northgate travel trip is 40 days long, am I covered for the first 31 days?",
+    "answer": "No, trips longer than 31 days are not covered at all",
+    "doc_id": "northgate_travel_wording",
+    "section": "1"
+  },
+  {
+    "id": "Q18",
+    "type": "condition",
+    "question": "Does a windscreen claim affect my Northgate no claims discount?",
+    "answer": "No",
+    "doc_id": "northgate_motor_wording",
+    "section": "4"
+  },
+  {
+    "id": "Q19",
+    "type": "procedure",
+    "question": "How quickly must I report a home insurance claim to Northgate?",
+    "answer": "Within 30 days of discovering the loss or damage",
+    "doc_id": "northgate_home_wording",
+    "section": "9"
+  },
+  {
+    "id": "Q20",
+    "type": "procedure",
+    "question": "How soon must theft be reported to the police under Northgate home insurance?",
+    "answer": "Within 48 hours",
+    "doc_id": "northgate_home_wording",
+    "section": "9"
+  },
+  {
+    "id": "Q21",
+    "type": "procedure",
+    "question": "When must I tell Harbourline about a car accident?",
+    "answer": "Within 48 hours",
+    "doc_id": "harbourline_motor_wording",
+    "section": "8"
+  },
+  {
+    "id": "Q22",
+    "type": "procedure",
+    "question": "How long do I have to submit a Northgate travel claim after returning home?",
+    "answer": "Within 31 days of returning home",
+    "doc_id": "northgate_travel_wording",
+    "section": "8"
+  },
+  {
+    "id": "Q23",
+    "type": "internal",
+    "question": "Who can authorise a claim worth £30,000?",
+    "answer": "A senior claims handler (£10,001 to £50,000)",
+    "doc_id": "northgate_claims_procedure",
+    "section": "3"
+  },
+  {
+    "id": "Q24",
+    "type": "internal",
+    "question": "When must a loss adjuster be appointed?",
+    "answer": "All subsidence claims, buildings claims over £7,500, and contents claims over £15,000",
+    "doc_id": "northgate_claims_procedure",
+    "section": "4"
+  },
+  {
+    "id": "Q25",
+    "type": "internal",
+    "question": "How quickly should a new claim be acknowledged?",
+    "answer": "Within 1 working day of notification",
+    "doc_id": "northgate_claims_procedure",
+    "section": "1"
+  },
+  {
+    "id": "Q26",
+    "type": "internal",
+    "question": "Who is allowed to decline a claim?",
+    "answer": "A senior claims handler or above",
+    "doc_id": "northgate_claims_procedure",
+    "section": "8"
+  },
+  {
+    "id": "Q27",
+    "type": "calculation",
+    "question": "What total excess does a 21-year-old pay on a Northgate car accidental damage claim?",
+    "answer": "£550 (£300 compulsory plus £250 young driver)",
+    "doc_id": "northgate_motor_wording",
+    "section": "9"
+  },
+  {
+    "id": "Q28",
+    "type": "unanswerable",
+    "question": "Does Northgate home insurance cover damage caused by a drone?",
+    "answer": "Not stated in the documents",
+    "doc_id": null,
+    "section": null
+  },
+  {
+    "id": "Q29",
+    "type": "unanswerable",
+    "question": "What is the Harbourline travel insurance baggage limit?",
+    "answer": "Not stated - there is no Harbourline travel document",
+    "doc_id": null,
+    "section": null
+  }
+]

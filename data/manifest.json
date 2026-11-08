@@ -1,0 +1,82 @@
+[
+  {
+    "doc_id": "northgate_home_ipid",
+    "filename": "northgate_home_ipid.pdf",
+    "insurer": "Northgate Insurance",
+    "product": "Home",
+    "doc_type": "IPID",
+    "title": "Home Insurance - Insurance Product Information Document",
+    "reference": "NG-HOME-IPID-2026",
+    "effective_date": "1 January 2026"
+  },
+  {
+    "doc_id": "northgate_home_wording",
+    "filename": "northgate_home_wording.pdf",
+    "insurer": "Northgate Insurance",
+    "product": "Home",
+    "doc_type": "Policy Wording",
+    "title": "Home Insurance Policy Wording",
+    "reference": "NG-HOME-PW-2026",
+    "effective_date": "1 January 2026"
+  },
+  {
+    "doc_id": "harbourline_home_wording",
+    "filename": "harbourline_home_wording.pdf",
+    "insurer": "Harbourline Insurance",
+    "product": "Home",
+    "doc_type": "Policy Wording",
+    "title": "Household Insurance Policy",
+    "reference": "HL-HH-0326",
+    "effective_date": "1 March 2026"
+  },
+  {
+    "doc_id": "northgate_motor_ipid",
+    "filename": "northgate_motor_ipid.pdf",
+    "insurer": "Northgate Insurance",
+    "product": "Motor",
+    "doc_type": "IPID",
+    "title": "Car Insurance - Insurance Product Information Document",
+    "reference": "NG-MOTOR-IPID-2026",
+    "effective_date": "1 January 2026"
+  },
+  {
+    "doc_id": "northgate_motor_wording",
+    "filename": "northgate_motor_wording.pdf",
+    "insurer": "Northgate Insurance",
+    "product": "Motor",
+    "doc_type": "Policy Wording",
+    "title": "Car Insurance Policy Wording",
+    "reference": "NG-MOTOR-PW-2026",
+    "effective_date": "1 January 2026"
+  },
+  {
+    "doc_id": "harbourline_motor_wording",
+    "filename": "harbourline_motor_wording.pdf",
+    "insurer": "Harbourline Insurance",
+    "product": "Motor",
+    "doc_type": "Policy Wording",
+    "title": "Private Car Policy",
+    "reference": "HL-PC-0326",
+    "effective_date": "1 March 2026"
+  },
+  {
+    "doc_id": "northgate_travel_wording",
+    "filename": "northgate_travel_wording.pdf",
+    "insurer": "Northgate Insurance",
+    "product": "Travel",
+    "doc_type": "Policy Wording",
+    "title": "Annual Multi-Trip Travel Insurance Policy Wording",
+    "reference": "NG-TRAVEL-PW-2026",
+    "effective_date": "1 January 2026"
+  },
+  {
+    "doc_id": "northgate_claims_procedure",
+    "filename": "northgate_claims_procedure.pdf",
+    "insurer": "Northgate Insurance",
+    "product": "All products",
+    "doc_type": "Internal Procedure",
+    "title": "Claims Handling Procedure - Personal Lines",
+    "reference": "NG-OPS-CLM-004 v3.2",
+    "effective_date": "1 February 2026"
+  }
+]
